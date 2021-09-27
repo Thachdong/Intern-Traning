@@ -1,8 +1,10 @@
-import MailQanda from "./components/MailQanda/MailQanda";
+// import MailQanda from "./components/MailQanda/MailQanda";
+import SmallTemple from "./components/MailQanda/smallTemple";
+
 function App() {
   return (
     <>
-      <MailQanda />
+      <SmallTemple />
     </>
   );
 }
