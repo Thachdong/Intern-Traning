@@ -16,8 +16,7 @@
     &__header-mail {
       // margin-bottom: 10px;
       padding: 0 16px 4px 16px;
-      // position: relative;
-      // z-index: 10;
+      border-bottom: 4px solid #0367b4;
       .logo-qanda {
         text-align: center;
         padding-top: 20px;
@@ -25,16 +24,9 @@
       }
      
     }
-    .line-footer {
-      max-width: 993px;
-      height: 4px;
-      background: #0367b4;
-      text-align: center;
-      margin: 0 auto;
-    }
-  
     &__main-content {
       padding: 36px 48px 31px 48px;
+         
       .main-title {
         max-width: 525px;
         margin-bottom: 36px;
@@ -43,13 +35,13 @@
         font-weight: 600;
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
       }
-      .main-content {
+      .main-des {
         max-width: 585px;
-        margin-bottom: 40px;
         line-height: 33px;
         font-size: 18px;
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
         color: #111111;
+        margin-bottom: 40px;
       }
       .main-line {
         max-width: 897px;

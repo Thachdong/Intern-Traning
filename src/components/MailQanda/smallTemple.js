@@ -19,12 +19,12 @@ export default function smallTemple() {
         </div> */}
       </div>
 
-      <div className="line-footer"></div>
+      {/* <div className="line-footer"></div> */}
       <div className="small-temple__main-content">
         <div className="main-title">
           <p>Hệ thống đã nhận yêu cầu nâng cấp tài khoản.</p>
         </div>
-        <div className="main-content">
+        <div className="main-des">
           <p>Tài khoản của bạn hiện đang được admin kiểm duyệt.</p>
           <p>
             Vui lòng đợi, quá trình kiểm duyệt có thể kéo dài 1 đến 2 ngày làm
